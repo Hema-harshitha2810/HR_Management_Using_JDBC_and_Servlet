@@ -23,9 +23,3 @@ This is a **HR Management System** web application built using **Java Servlets**
 - Display all employees in table structure along with edit and delete option
 - Input validations
 - Persistent data storage with JDBC
-
-## ⚙️ Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Hema-harshitha2810/HR-Management.git
